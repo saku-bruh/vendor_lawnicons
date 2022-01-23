@@ -1,0 +1,8 @@
+<manifest
+    package="com.android.launcher3.overlay"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <overlay
+      android:isStatic="true"
+      android:priority="0"
+      android:targetPackage="com.android.launcher3"/>
+</manifest>

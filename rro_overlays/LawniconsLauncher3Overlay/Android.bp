@@ -1,7 +1,5 @@
 runtime_resource_overlay {
-    name: "Lawnicons",
-    theme: "Lawnicons",
-    certificate: "platform",
+    name: "LawniconsLauncher3Overlay",
     sdk_version: "current",
     overrides: [
         "ThemedIconsOverlay",
