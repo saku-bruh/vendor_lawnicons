@@ -3,5 +3,10 @@ runtime_resource_overlay {
     theme: "Lawnicons",
     certificate: "platform",
     sdk_version: "current",
+    overrides: [
+        "ThemedIconsOverlay",
+        "PixelLauncherIconsOverlay",
+        "CustomPixelLauncherOverlay"
+    ],
     product_specific: true
 }
