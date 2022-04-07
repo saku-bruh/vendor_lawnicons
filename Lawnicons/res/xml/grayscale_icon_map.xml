@@ -82,10 +82,15 @@
     <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera2" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.mgc" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.MGC" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.footej.camera2" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Cameight" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Urnyx" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraPixelX" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraGood" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.googlecamerapxh" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.apps.cameralite" name="Camera" />
     <icon drawable="@drawable/camera" package="com.honor.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.huawei.camera" name="Camera" />
@@ -95,6 +100,7 @@
     <icon drawable="@drawable/camera" package="com.oppo.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.sec.android.app.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.transsion.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.samsung.android.scan3d" name="Camera" />
     <icon drawable="@drawable/camera" package="net.sourceforge.opencamera" name="Camera" />
     <icon drawable="@drawable/camera" package="org.codeaurora.qcamera3" name="Camera" />
     <icon drawable="@drawable/camera" package="org.codeaurora.snapcam" name="Camera" />
